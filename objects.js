@@ -39,4 +39,4 @@ const person2 = {
     password: 'password@example.com'
 }
 
-console.log(equals(person, person2));
+//console.log(equals(person, person2));
