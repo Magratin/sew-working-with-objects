@@ -24,4 +24,4 @@ const person = {
     password: 'password@example.com'
 }
 
-console.log(numberMembers(person))
+console.log(numberMembers(person));
